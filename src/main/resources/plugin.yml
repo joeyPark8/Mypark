@@ -1,0 +1,7 @@
+name: mypark
+version: '${version}'
+main: com.semin.mypark.Mypark
+api-version: '1.19'
+commands:
+  park:
+    description: 'Use for park'
